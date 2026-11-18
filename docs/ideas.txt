@@ -266,11 +266,10 @@ tartarus
 LEVEL BARRIERS
 --------------
 IMMORTAL
-1000 - Supremes (osiri)
-900s - gods (lynniel)
+100 - Gods (osiri)
 
 MINIMORTAL
-800s - celestial beings (angels)
+80-99 - celestial beings (angels)
 
 SEMIMORTAL
 700s - ancient beings (dragons)
@@ -1094,11 +1093,6 @@ named > conscious > living
 blessed > holy
 cursed > damned > infernal
 legendary > mythical
-
-Manticore
-Wolf
-Dragon
-Goblin
 
 Profane 0 - power of mortals
 Water   1 - power of cleansing
