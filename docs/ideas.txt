@@ -28,8 +28,544 @@ Ideas:
     enchant . 
 - Tournaments have good payouts
 
-Notes
-------
+                 PROJECT GOALS
+-----------------------------------------------
+
+- [ ] create project folder
+- [ ] add project directory to github desktop
+- [ ] upload project to github
+- [ ] add repository to project
+- [ ] initialize the main file 
+- [ ] create overlume folder
+- [ ] make pytho folder
+- [ ] make main file and format it
+- [ ] add project to Github
+- [ ] add subfolders for basic file directory
+- [ ] add game states
+- [ ] add start/quit cycle
+- [ ] add simple game loop 
+- [ ] add simple player stats  
+- [ ] add character custumization system
+- [ ] add movement directions
+- [ ] add in game map
+- [ ] add basic battle system 
+- [ ] add inventory system
+- [ ] implement item id system
+- [ ] add shop system
+- [ ] add race/family bloodlines system
+- [ ] implement magic system
+- [ ] add skill system
+- [ ] add national map
+- [ ] make global map
+- [ ] make universal map
+- [ ] add basic enemies
+- [ ] add dungeon system
+- [ ] add enchant system
+- [ ] add alchemy system
+- [ ] add crafting/augment system
+- [ ] add casino system
+- [ ] add time system
+- [ ] add calendar system
+- [ ] add battle arts system
+- [ ] add travel system
+- [ ] add town area to map
+- [ ] add city area to map
+- [ ] add general shop to map 
+- [ ] add smith shop to map
+- [ ] add alchemy shop to map
+- [ ] add adventurer guild to map
+- [ ] add black market shop to map
+- [ ] add underground haven to map
+- [ ] add arena system
+- [ ] implement quest system
+- [ ] add achievements
+- [ ] add item storage system
+- [ ] implement world log system
+- [ ] add individual items
+- [ ] create storage mechanic
+- [ ] add options menu
+- [ ] add settings menu
+- [ ] implement configs
+- [ ] create custom intro stories
+- [ ] add companion system
+- [ ] add simple party mechanics
+- [ ] implement raid party system
+
+Abilities:
+- [ ] Name - name
+
+Concepts:
+- [ ] name - crafting free
+
+Items:
+- [ ] name - items
+
+Locations:
+- [ ] name - locations
+
+Monsters:
+- [ ] Beasthunter - beasts
+- [ ] Those Below - fish
+
+People:
+- [ ] Figures - important figures
+- [ ] Bodies of Terror - evil orgs
+- [ ] Lumhuin Rule - laws
+- [ ] Bardic Muse - music and songs
+
+Religion:
+- [ ] Name - name
+
+
+powers from bloodlines 
+
+Juggernaut
+Leviathan
+Pantheon
+Anniahlation
+
+Necromancy book
+Book of Demons
+Book ok Curses
+wrath
+lust
+
+
+
+Holidays / Events:
+New Year Day - welcome the new year
+Bloom Festival - welcome spring season
+Knightsgard - show appreciation for military
+Sunmott Festival - welcome summer season
+All Stars Day - day of praise for the gods
+Arden Festival - welcome autumn season
+Ghoulsmere - day of the dead and haunting
+Moonla Festival - welcome winter season
+Day of Thanks - be thankful for blessings
+Froschmas - celebrate winter spirit
+Hijinx Fools - day of pranking
+Swords Day - ggg
+
+art-of-the-martial-way
+book-of-curses
+magickana
+skillbook
+augustian
+crafting
+enchanted
+	method
+	enchant list
+iron-stars
+	time periods
+lorehuin
+myths-and-tall-tales
+tableleaf
+	method
+	potion list
+items
+	survival
+	hobby
+	catalog
+quintilion
+	rocks
+	stones
+	minerals
+	gems
+ruins
+rune-society
+	combat
+	industrial
+	convience
+	scientificu
+willed
+	named
+	conscious
+	alive
+	morphed
+yordwork-armory
+	armor
+	weapons
+locations
+lords-of-rooks
+	north
+	west
+	central
+	east
+	south
+lumverse
+royal-academia
+	martial
+	magic
+	scholar
+	trade
+lucidian
+	low
+	mid
+	great
+	top
+plants
+archetyping
+	combat classes
+	occupational classes
+	hobby classes
+	special classes
+golden-revelry
+	dueling
+	gambling
+	monster fights
+	board games
+	sports
+guilds
+	martial grps
+	magic grps
+	commercial grps
+	scholar grps
+	religious grps
+	political grps
+heroes-and-villains
+	heroes
+	villains
+lumcards
+	story
+	how to play
+	card details
+	card catalog
+lumidas-and-taza
+	holidays
+	festvals
+	special events
+mob-ties
+	martial fams
+	magic fans
+	commercial fams
+	scholar fams
+	religious fams
+	political fams
+mortal-health
+people-of-lum
+	human races
+	beastmen races
+	demihuman races
+rankers
+	story
+	details to get in
+	rankings
+book-of-stars
+deities
+kingdom-of-light
+belial
+	origins
+	B posions
+	A poisons
+	S poisons
+	EX poisons
+mammon
+necrophage
+tartarus
+
+LEVEL BARRIERS
+--------------
+IMMORTAL
+1000 - Supremes (osiri)
+900s - gods (lynniel)
+
+MINIMORTAL
+800s - celestial beings (angels)
+
+SEMIMORTAL
+700s - ancient beings (dragons)
+600s - legendary beings ()
+
+MORTALS
+500s - advanced species (dragokin)
+400s - special species (elves)
+300s - demihumans (beastmen)
+200s - humans (hunyadi)
+100s - all
+
+# demons
+dragons
+humans
+
+sin of lust
+sin of gluttony
+sin of sloth
+
+Collectibles:
+- lumcards
+- book
+- figurines
+- old coins
+- star shaped gemstones
+- ceremonial weapons
+
+Lumland Trading Card Game
+-------------------------
+- heroes
+- monsters
+- structures
+- powers
+- items
+
+                   OVERLUME
+
+11  U    Guardian  100
+10 EX       Titan  90s  10.000.000 xp drop
+09  M  Demon King  80s  1.000.000 xp drop
+08  L      Dragon  70s  100.000 xp drop
+07 SS       Demon  60s  10.000 xp drop
+06  S   Manticore  50s  1.000 xp drop
+05  A  Salamander  40s  500 xp drop
+04  B       Troll  30s  100 xp drop
+03  C        Wolf  20s  50 xp drop
+02  D      Goblin  10s  10 xp drop
+01  F       Slime  1-9  5 xp drop
+
+LVL 99: king titan (0 xp)
+LVL 90: leviathan (0 xp)
+LVL 89: name (0 xp)
+LVL 80: demon king (0 xp)
+LVL 79: dragon (0 xp)
+LVL 70: name (0 xp)
+LVL 69: name (0 xp)
+LVL 60: demon (0 xp)
+LVL 59: vampire (0 xp)
+LVL 50: manticore (0 xp)
+LVL 49: devil (0 xp)        2.355.955
+LVL 40: salamander (0 xp)
+LVL 39: name (0 xp)         786.661
+LVL 30: troll (0 xp)
+LVL 29: name (0 xp)         208.492
+LVL 20: wolf (0 xp)
+LVL 19: goblin (0 xp)       38.828
+LVL 10: boar (0 xp)
+LVL  9: skeleton (0 xp) 3.851
+LVL  1: slime (0 xp)
+	
+             XP TABLE
+LEVEL 1    | 0 / 100 XP , TOTAL: 100 XP
+LEVEL 2    | 0 / 140 XP , TOTAL: 240 XP
+LEVEL 3    | 0 / 193 XP , TOTAL: 433 XP
+LEVEL 4    | 0 / 262 XP , TOTAL: 695 XP
+LEVEL 5    | 0 / 350 XP , TOTAL: 1,045 XP
+LEVEL 6    | 0 / 461 XP , TOTAL: 1,506 XP
+LEVEL 7    | 0 / 599 XP , TOTAL: 2,105 XP
+LEVEL 8    | 0 / 769 XP , TOTAL: 2,874 XP
+LEVEL 9    | 0 / 977 XP , TOTAL: 3,851 XP
+
+LEVEL 10   | 0 / 1,229 XP , TOTAL: 5,080 XP
+LEVEL 11   | 0 / 1,532 XP , TOTAL: 6,612 XP
+LEVEL 12   | 0 / 1,894 XP , TOTAL: 8,506 XP
+LEVEL 13   | 0 / 2,323 XP , TOTAL: 10,829 XP
+LEVEL 14   | 0 / 2,829 XP , TOTAL: 13,658 XP
+LEVEL 15   | 0 / 3,421 XP , TOTAL: 17,079 XP
+LEVEL 16   | 0 / 4,111 XP , TOTAL: 21,190 XP
+LEVEL 17   | 0 / 4,911 XP , TOTAL: 26,101 XP
+LEVEL 18   | 0 / 5,834 XP , TOTAL: 31,935 XP
+LEVEL 19   | 0 / 6,893 XP , TOTAL: 38,828 XP
+
+LEVEL 20   | 0 / 8,104 XP , TOTAL: 46,932 XP
+LEVEL 21   | 0 / 9,484 XP , TOTAL: 56,416 XP
+LEVEL 22   | 0 / 11,049 XP , TOTAL: 67,465 XP
+LEVEL 23   | 0 / 12,819 XP , TOTAL: 80,284 XP
+LEVEL 24   | 0 / 14,813 XP , TOTAL: 95,097 XP
+LEVEL 25   | 0 / 17,053 XP , TOTAL: 112,150 XP
+LEVEL 26   | 0 / 19,561 XP , TOTAL: 131,711 XP
+LEVEL 27   | 0 / 22,361 XP , TOTAL: 154,072 XP
+LEVEL 28   | 0 / 25,479 XP , TOTAL: 179,551 XP
+LEVEL 29   | 0 / 28,941 XP , TOTAL: 208,492 XP
+
+LEVEL 30   | 0 / 32,776 XP , TOTAL: 241,268 XP
+LEVEL 31   | 0 / 37,015 XP , TOTAL: 278,283 XP
+LEVEL 32   | 0 / 41,689 XP , TOTAL: 319,972 XP
+LEVEL 33   | 0 / 46,831 XP , TOTAL: 366,803 XP
+LEVEL 34   | 0 / 52,477 XP , TOTAL: 419,280 XP
+LEVEL 35   | 0 / 58,663 XP , TOTAL: 477,943 XP
+LEVEL 36   | 0 / 65,428 XP , TOTAL: 543,371 XP
+LEVEL 37   | 0 / 72,813 XP , TOTAL: 616,184 XP
+LEVEL 38   | 0 / 80,861 XP , TOTAL: 697,045 XP
+LEVEL 39   | 0 / 89,616 XP , TOTAL: 786,661 XP
+
+LEVEL 40   | 0 / 99,125 XP , TOTAL: 885,786 XP
+LEVEL 41   | 0 / 109,436 XP , TOTAL: 995,222 XP
+LEVEL 42   | 0 / 120,600 XP , TOTAL: 1,115,822 XP
+LEVEL 43   | 0 / 132,670 XP , TOTAL: 1,248,492 XP
+LEVEL 44   | 0 / 145,701 XP , TOTAL: 1,394,193 XP
+LEVEL 45   | 0 / 159,751 XP , TOTAL: 1,553,944 XP
+LEVEL 46   | 0 / 174,879 XP , TOTAL: 1,728,823 XP
+LEVEL 47   | 0 / 191,147 XP , TOTAL: 1,919,970 XP
+LEVEL 48   | 0 / 208,620 XP , TOTAL: 2,128,590 XP
+LEVEL 49   | 0 / 227,365 XP , TOTAL: 2,355,955 XP
+
+LEVEL 50   | 0 / 247,452 XP , TOTAL: 2,603,407 XP
+LEVEL 51   | 0 / 268,952 XP , TOTAL: 2,872,359 XP
+LEVEL 52   | 0 / 291,940 XP , TOTAL: 3,164,299 XP
+LEVEL 53   | 0 / 316,494 XP , TOTAL: 3,480,793 XP
+LEVEL 54   | 0 / 342,693 XP , TOTAL: 3,823,486 XP
+LEVEL 55   | 0 / 370,621 XP , TOTAL: 4,194,107 XP
+LEVEL 56   | 0 / 400,363 XP , TOTAL: 4,594,470 XP
+LEVEL 57   | 0 / 432,007 XP , TOTAL: 5,026,477 XP
+LEVEL 58   | 0 / 465,645 XP , TOTAL: 5,492,122 XP
+LEVEL 59   | 0 / 501,372 XP , TOTAL: 5,993,494 XP
+
+LEVEL 60   | 0 / 539,284 XP , TOTAL: 6,532,778 XP
+LEVEL 61   | 0 / 579,483 XP , TOTAL: 7,112,261 XP
+LEVEL 62   | 0 / 622,071 XP , TOTAL: 7,734,332 XP
+LEVEL 63   | 0 / 667,156 XP , TOTAL: 8,401,488 XP
+LEVEL 64   | 0 / 714,848 XP , TOTAL: 9,116,336 XP
+LEVEL 65   | 0 / 765,259 XP , TOTAL: 9,881,595 XP
+LEVEL 66   | 0 / 818,507 XP , TOTAL: 10,700,102 XP
+LEVEL 67   | 0 / 874,711 XP , TOTAL: 11,574,813 XP
+LEVEL 68   | 0 / 933,995 XP , TOTAL: 12,508,808 XP
+LEVEL 69   | 0 / 996,485 XP , TOTAL: 13,505,293 XP
+
+LEVEL 70   | 0 / 1,062,312 XP , TOTAL: 14,567,605 XP
+LEVEL 71   | 0 / 1,131,610 XP , TOTAL: 15,699,215 XP
+LEVEL 72   | 0 / 1,204,517 XP , TOTAL: 16,903,732 XP
+LEVEL 73   | 0 / 1,281,174 XP , TOTAL: 18,184,906 XP
+LEVEL 74   | 0 / 1,361,726 XP , TOTAL: 19,546,632 XP
+LEVEL 75   | 0 / 1,446,321 XP , TOTAL: 20,992,953 XP
+LEVEL 76   | 0 / 1,535,113 XP , TOTAL: 22,528,066 XP
+LEVEL 77   | 0 / 1,628,257 XP , TOTAL: 24,156,323 XP
+LEVEL 78   | 0 / 1,725,915 XP , TOTAL: 25,882,238 XP
+LEVEL 79   | 0 / 1,828,251 XP , TOTAL: 27,710,489 XP
+
+LEVEL 80   | 0 / 1,935,433 XP , TOTAL: 29,645,922 XP
+LEVEL 81   | 0 / 2,047,634 XP , TOTAL: 31,693,556 XP
+LEVEL 82   | 0 / 2,165,031 XP , TOTAL: 33,858,587 XP
+LEVEL 83   | 0 / 2,287,804 XP , TOTAL: 36,146,391 XP
+LEVEL 84   | 0 / 2,416,139 XP , TOTAL: 38,562,530 XP
+LEVEL 85   | 0 / 2,550,226 XP , TOTAL: 41,112,756 XP
+LEVEL 86   | 0 / 2,690,258 XP , TOTAL: 43,803,014 XP
+LEVEL 87   | 0 / 2,836,434 XP , TOTAL: 46,639,448 XP
+LEVEL 88   | 0 / 2,988,957 XP , TOTAL: 49,628,405 XP
+LEVEL 89   | 0 / 3,148,034 XP , TOTAL: 52,776,439 XP
+
+LEVEL 90   | 0 / 3,313,877 XP , TOTAL: 56,090,316 XP
+LEVEL 91   | 0 / 3,486,702 XP , TOTAL: 59,577,018 XP
+LEVEL 92   | 0 / 3,666,731 XP , TOTAL: 63,243,749 XP
+LEVEL 93   | 0 / 3,854,189 XP , TOTAL: 67,097,938 XP
+LEVEL 94   | 0 / 4,049,308 XP , TOTAL: 71,147,246 XP
+LEVEL 95   | 0 / 4,252,323 XP , TOTAL: 75,399,569 XP
+LEVEL 96   | 0 / 4,463,474 XP , TOTAL: 79,863,043 XP
+LEVEL 97   | 0 / 4,683,007 XP , TOTAL: 84,546,050 XP
+LEVEL 98   | 0 / 4,911,172 XP , TOTAL: 89,457,222 XP
+LEVEL 99   | 0 / 5,148,225 XP , TOTAL: 94,605,447 XP  MORTAL CAP
+
+LEVEL 100  | 0 / 5,394,553 XP , TOTAL: 100,000,000 XP GODS
+
+
+ U
+EX  Adamantite
+ M  Mythril
+ L  Obsidian
+SS  Diamond
+ S  Platinum
+ A  Gold
+ B  Silver
+ C  Iron
+ D  Bronze
+ F  Stone
+
+Fire - Red Magic Tower (Hex Prism)
+Crimson execs
+Passionate - More Power
+
+Water - Blue Magic Tower (Torus)
+Navy execs
+Flexible - Better Technology
+
+Earth - Yellow Magic Tower (Pyramid)
+Gold execs
+Straightforward - 
+
+Air - Green Magic Tower (Semisphere)
+Olive execs
+Freewilled - 
+
+Darkness - Black Magic Tower (Octohedron)
+Obsidian execs
+Mysterious - Explore Unknown
+
+Light - White Magic Tower (Star)
+Silver execs
+Devoted - 
+
+Time - Orange Magic Tower (Flat top Pyrimids "hourglass")
+Peach execs
+Orthodox - Maintain Preservation
+
+Space - Violet Magic Tower (Cube)
+Pink execs
+Structured - 
+
+flower shaped
+
+Gambling Games:
+blackjack
+fantasy poker
+high or low
+roulette multiplier wheel
+multiplier chance game
+race betting
+duel betting
+slot machine
+game bettings
+left right center table
+spin the wheel
+lottery
+scratch cards
+
+- monsters are able to evolve with certain conditions
+- intelligent/soul weapons are either: held, hosted, or bonded
+- mages are encouraged to bond with a familiar
+
+locations:
+general store - buy general goods
+blacksmith - buy weapons and armor
+tailor - buy clothes
+apothecary - buy potions
+magic store - buy magical goods
+adventurer guild - do questing
+academy
+home - the player's home
+inn - temp housing
+market - buy food stuffs
+healer - get treated for health
+dungeon - go adventuring
+bank - store money or valuables
+port - move to different city or nation
+arena - compete to earn a grand prize
+magic tower - get equipment enchanted
+black market - buy illegal goods
+slave trader - buy new companions
+beast trader - buy new tames
+casino - gamble gamble gamble
+town - tile fot
+city - 
+capital - 
+nation - 
+
+
+
+Stores
+-------
+Buy - Order - Upgrade - Sell
+general store - common goods
+blacksmith - metal goods
+weaponsmith - weapons
+armorer - armor
+bookstore - normal books
+magibookstore - grimoires & spellbooks
+apothecary - potions
+enchanter - enchants
+clothing store - clothes
+tailor - order/upgrade clothes
+doctor office - buy healing
+adventure guild - claim quests
+
+
+
 
 systems to implement:
 ---------------------
