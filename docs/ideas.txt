@@ -1,0 +1,764 @@
+Ideas:
+- Custom orders take few days to be made
+- Repairing items take a day or two
+- Homes can be bought in cities and towns
+- Only five homes can be owned
+- Monsters can attack solo or in groups
+- Monsters can be tamed if done properly
+- Achievements can possibly lead to rewards
+- Monsters drop items
+- Take loans from bank, 6 tiers
+    $10M
+    $1M
+    $100K
+    $10K
+    $1K
+    $500
+- All shops have basket system:
+    store all items/goods
+    sum all costs
+    auto factor in coupons / deals / limited offers
+- Stores have rotating inventory
+- Monthly and yearly lottery 
+- Upgrade systems use different currencies
+    shops . lums
+    craft . parts
+    alchemy . ingredients
+    augment . new components
+    enchant . 
+- Tournaments have good payouts
+
+Notes
+------
+
+systems to implement:
+---------------------
+menu
+Save/load
+battle
+shop
+inventory
+dungeon
+boss
+map
+travel
+crafting
+enchanting
+enhancing
+housing
+level up
+
+locations:
+---------------
+general shop - buy common goods
+blacksmith - get weapons/armor crafted and repaired
+armament shop - buy weapons and armor
+armor shop - buy armor
+weapon shop - buy weapons
+food shop - buy food
+clothes shop - buy clothes
+alchemy shop - buy potions and alchemy ingredients
+bank - store lums and items
+hardware shop - buy supplies
+tinker shop - request equipment to be crafted
+library - read common books
+book shop - buy books
+church - interact with the Gods, get blessings
+realtor office - buy player home
+home - live in player home
+adventurer guild - progress as an adventurer
+merchant guild - progress as a merchant
+mages guild - progress as a mage
+tamers guild - progress as a tamer
+blacksmith guild - progress as a blacksmith
+academy - learn multiple skills quickly
+casino - gamble for money
+arena - fight and compete with others
+cave - 
+dungeon - conquer for loot
+mage tower - get items enchanted
+inn - rest and restore energy
+tavern - eat and meet npcs
+brewery - buy alchol
+tailor - get custom clothes
+fishery - buy or sell fish
+butcher - buy or sell meat
+bakery - buy bread and pastries
+market - buy/trade random goods
+stables - buy or board mounts
+stableyard - train mounts
+barracks - report crimes or pay fines
+jail - get arrested or free prisoners
+mayor - take special quests
+town hall - vote or register property
+post office - send or receive mail
+apothecary - buy herbal cures
+carpenter - buy or craft furniture
+jeweler - buy or sell gems
+mine - gather ores
+quarry - collect stones
+sawmill - process lumber
+training grounds - practice combat
+range - improve ranged skills
+shrine - offer tribute for boost
+graveyard - pay respects or fight undead
+ruins - search for relics
+outpost - rest or trade on long journeys
+farmstead - buy produce and livestock
+orchard - pick fruits
+well - collect fresh water
+port - travel by ship
+docks - trade across regions
+shipyard - build or repair ships
+healer’s hut - get wounds treated
+witch’s hut - buy forbidden potions
+hermit’s cave - learn secret wisdom
+monastery - train inner focus
+academy library - study advanced subjects
+archives - research ancient lore
+laboratory - craft advanced potions
+observatory - study stars or omens
+clock tower - manage town timekeeping
+plaza - meet townspeople
+theater - watch plays or perform
+music hall - listen to bards
+artist’s studio - commission art
+sculptor’s workshop - craft statues
+gallery - view and buy art
+fashion boutique - buy luxury clothing
+perfumery - buy scented goods
+pawn shop - sell or buy rare finds
+auction house - bid on valuable items
+armory vault - store special weapons
+warehouse - access stored cargo
+caravan stop - hire or join caravans
+nomad camp - trade exotic goods
+bandit hideout - infiltrate or parley
+thieves guild - progress as a thief
+assassin guild - accept assassination contracts
+bounty office - collect or post bounties
+mercenary post - hire fighters
+prison mine - do labor or break out
+slave market - buy or free captives
+noble manor - attend feasts or request aid
+royal palace - meet the ruler
+courtroom - resolve legal disputes
+embassy - work with foreign diplomats
+battlefield - join ongoing war
+watch post - detect approaching threats
+frontier camp - rest beyond civilized lands
+volcano - find rare minerals
+
+Continents:
+frozen contient - land of frost
+dark continent - grim lands
+corrupted continent - where hell descends
+lumland - the main landform
+wildlands - confines untamed beings
+hionite islands - sprawls of aquaeous myth
+east himiyaos - islands of asian descent
+land of giants - home of large beings
+southern deserts - land bound to the great desert
+
+Nations:
+black desert
+latinos
+asians
+northeners
+reptilians
+beastmen
+islanders
+religious
+birdmen
+giants
+dragons
+fairies
+elves
+dwarves
+orcs
+ogres
+devilkin
+
+- Monster battling trading card game 
+- Banks have usable accounts that can store items 
+- Take loans from bank, 6 tiers
+		$100M
+		$10M
+	 	$1M
+		$100K
+		$10K
+		$1K
+		$500
+- All shops have basket system:
+		store all items/goods
+		auto factor in coupons / deals / limited offers
+		sum all costs in checkout
+- Stores have rotating inventory
+- Upgrade systems use different currencies
+		shops . lums
+		craft . parts
+		alchemy . ingredients
+		augment . new components
+		enchant . enchant dust
+- Tournaments have good payouts
+	weapon duel
+	weapon talent
+	magic duel
+	magic talent
+	mix duel
+	tame battle (Illegal)
+	spirit battle
+	golem fight
+	
+- Casino games:
+	blackjack
+	monopoly
+	roulette
+	lottery
+	spinwheel
+	sports betting
+	slot machine
+
+warriors detect aura
+mages detect mana
+fairies detect true natures
+spirits detect natural mana
+undead detect regret
+celestials detect will
+infernals detect malice
+
+scholar clan
+doctor clan
+mercenary clan
+knight clan
+mage clan
+research clan
+assassin clan
+holy clan
+chef clan
+engineer clan
+sailor clan
+adventurer clan
+hunter clan
+athlete clan
+royal clan
+sword clan
+spear clan
+intel clan
+legal clan
+treasure clan
+trainer clan
+architect clan
+game clan
+art clan
+red tower
+green tower
+yellow tower
+blue tower
+black tower
+white tower
+
+weaponplay intents:
+knight - to protect the kingdom
+paladin - to defend the holy land from evil
+adventurer - to handle any job taken
+mercenary - to bring down any threats to my company
+slayer - to bring down any beast
+assassin - to eliminate the target efficently
+marksmen - to bring down all who approach
+duelist - to overpower my opponent
+performer - to showcase an artful blade form
+
+supreme star = the gods that created the lumverse
+prime star = the gods that control the lumverse
+major star = the gods that influence the lumverse
+minor star = deities that manifest in the lumverse
+half star = mortals that ascended into divinity
+guardian = divine monsters that are pieces of their sworn star and exist to protect their will
+angel = highest existence in Bahanna, after Gods
+celestial = holy beasts that have traces of divinity
+demon = highest existence in Shogrinn, after Astrayed
+devil = infernal beasts that leak an air of malice
+spirit = beings that originate from the spirit realm
+elemental = monsters that inhabit a core that absorb natural mana 
+fairy = tiny mortals that share relation to the spirits
+elf = lean mortals that are favored by mother nature
+giant = towering beings that see others as miniscule
+dwarf = runtish, stout mortals that have blessed hands
+beastman = descendents of the divine beasts that gained mortality
+human = common mortals that are frail in nature but strong in heart
+
+Khasu Empire - Land of Dragons
+	God of War = "Lord of War"
+	Deity Dragon = "Dragon Ancestor" black
+	Emperor Olitar = "Grand Dragon" gold
+	Empress Roostra =  "Mother Dragon" silver
+	Crown Prince Percius = "Little Dragon" bronze
+	Archduke Doularan = "White Dragon" defense in the North
+	Duke Judicayre = "Red Dragon" justice in the East
+	Duke Finiel = "Green Dragon" money in the South
+	Duke Sacrora = "Yellow Dragon" religion in the West
+	Marquis Inoue = "Blue Dragon" technology in the Center
+
+Moeregante - Between Bahanna and Shogrinn (purgatory)
+  Overcome the Trials of Life and Death
+  For thosr that lived a grey and black life, only the sincere will be able to completely ascend
+	Trial of Decree (9th)    - face your judgement, be judged by the god of death, trial guardians, and lord guardian
+	Trial of I (8th)         - overcome yourself, brightness battle your shadow and if you have too dark of a soul be defeated
+	Trial of the Lech (7th)  - overcome carnal desires, smell walk through the river of desire and if your soul smells tempting enough you will be devouerd
+	Trial of the Cross (6th) - overcome hate for another, temp relive relative memories of your enemy and save them at the end
+	Trial of Gold (5th)      - overcome selfishness, color 
+	Trial of Langour (4th)   - overcome fear of pain, weight ascend a mountain fighing agaisnt the density (purity) of your soul 
+	Trial of the Viper (3rd) - overcome need for others things, shape 
+	Trial of Guts (2nd)      - overcome overindulging, texture resist resting for too long on your soul before being slaughtered
+	Trial of Order (1st)     - choose to ascend or descend, wait in an endless line to ascend
+
+Characters:
+Adventurer Chef - Hunts his own ingredients
+mad scientist
+sword dancer
+
+- close assault
+- mid assault
+- far assault
+- close tank
+- mid tank
+- far tank
+- close support
+- mid support
+- far support
+- close range
+- mid range
+- far range
+
+
+Name, Title (Age)
+Race, Job (Ambition)
+HP / HPMAX
+MP / MPMAX
+AP / APMAX
+SP / SPMAX
+LVL
+XP / XPMAX
+REP
+Lums
+-----------
+STR  |  DEF
+-----------
+AGI  |  SPD
+-----------
+PRO  |  MAG
+-----------
+CHR  |  INT
+-----------
+LUC  |  FRT
+-----------
+Bodyweight
+Total weight
+Skills
+Magics
+Arts
+Powers
+Head
+Face
+Eyes Ears
+Nose
+Neck
+Back Chest Shoulders
+Arms
+Wrist Hand Fingers
+Waist
+Legs
+Ankles
+Foot
+
+Primary
+Secondary
+Sidearm
+PROT
+ATK
+Inventory
+Tames
+companions
+Party
+Raid
+
+Temperature (Freezing-Burning)
+Clarity (Unconscious-Conscious)
+Sanity (Insane-Sane-Focused)
+Energy (Exhasted-Full-Energized)
+Bleeding
+Hunger (Starving-Full-Overfed)
+Thirst (Dehydrated-Hydrated-Quenched)
+Aura Health (Exhausted-Brimming)
+Mana Health (Depleted-Overflowing)
+Toxicity (High-Normal)
+Air (Suffocating-Breathing)
+Hygiene (Filthy-Clean)
+Weight (Overencumbered-Freed)
+Health (Sick-Normal)
+injured-health-healthy
+
+Bleeding <-> Blood Integrity <-> Coagulated
+Radiation Sickness <-> Cellular Health <-> Radiant Vitality
+Broken Bones <-> Skeletal Integrity <-> Reinforced Structure
+Concussion <-> Neural Stability <-> Cognitive Precision
+Sunburn <-> Skin Resilience <-> Solar Adaptation
+Asphyxiation <-> Oxygen Levels <-> Aerated
+Vertigo <-> Spatial Awareness <-> Grounded
+Tremors <-> Motor Control <-> Steady Hands
+Malnutrition <-> Nutrient Balance <-> Optimal Nourishment
+Hallucinations <-> Perception Accuracy <-> True Sight
+Necrosis <-> Tissue Vitality <-> Cellular Regeneration
+Petrification <-> Bodily Flexibility <-> Stoneform Immunity
+Suffocation <-> Air Supply <-> Breathe Easy
+Lacerations <-> Dermal Integrity <-> Scarless Healing
+Hemorrhage <-> Vascular Integrity <-> Clotting Factor
+Sepsis <-> Blood Purity <-> Sterile System
+Rabies <-> Neural Health <-> Viral Immunity
+Dysentery <-> Gut Flora <-> Digestive Harmony
+Pneumonia <-> Lung Capacity <-> Respiratory Efficiency
+Frostbite <-> Extremity Circulation <-> Polar Adaptation
+Heat Exhaustion <-> Core Temperature <-> Thermal Balance
+Hypoxia <-> Oxygen Saturation <-> High-Altitude Adaptation
+Tetanus <-> Muscle Relaxation <-> Contraction Control
+Gangrene <-> Limb Vitality <-> Necrotic Resistance
+Psionic Overload <-> Mental Shielding <-> Telepathic Clarity
+Soul Drain <-> Spiritual Essence <-> Divine Connection
+Arcane Burn <-> Mana Channels <-> Mystic Conduit
+Reality Warping <-> Existential Anchor <-> Cosmic Alignment
+Time Sickness <-> Temporal Sync <-> Chrono-Harmony
+Gravity Crush <-> Inertial Resistance <-> Weightless Grace
+Sonic Shock <-> Auditory Processing <-> Harmonic Resonance
+Sensory Deprivation <-> Neural Input <-> Hyperawareness
+
+
+•	Hygiene  
+`Filthy <-> Hygiene <-> Clean`
+•	Oxygen  
+`Suffocating <-> Oxygen <-> Aerated`
+•	Immunity  
+`Sick <-> Immunity <-> Resilient`
+•	Mana  
+`Depleted <-> Mana <-> Overflowing`
+•	Balance  
+`Dizzy <-> Balance <-> Vertigo`
+•	Pressure  
+`Crushed <-> Pressure <-> Exploding`
+•	Toxicity  
+`Poisoned <-> Toxicity <-> Overdosed`
+•	Magic Stability  
+`Wild Surges <-> Magic Stability <-> Stagnant`
+•	Emotions  
+`Depressed <-> Emotions <-> Manic`
+•	Blood Sugar  
+`Hypoglycemic <-> Blood Sugar <-> Hyperglycemic`
+•	Radiation  
+`Irradiated <-> Radiation <-> Mutating`
+
+envy   green
+blue
+wrath  red
+purple
+pride  yellow
+lust   pink
+1
+
+Abilities:
+- Counter
+- Full Counter
+- Taunt
+- Block
+- Parry
+- Slash
+- Pierce
+- Stone Bullet
+- Bullet Barrage 
+- Abyss
+- Hand of God
+- Limit Break
+- Red Night
+- Apocrypha 
+- Final Judgment 
+- Roar of Beasts
+- Yetheye
+
+Archetypes
+------------
+Ability Distance: Close, Mid, Far
+Ability Purpose: Offense, Defense, Support, Hinder
+Ability Input: Aura, Mana
+Ability Output: Melee, Spell 
+
+Swordsman
+Magic swordsman
+Magiknight
+Mage
+Priest
+Paladin
+Barbarian
+Soldier
+Ranger
+Spearman
+Knight
+Artificer
+Alchemist
+Cannoneer
+Thief
+Assassin
+Rogue
+Samurai
+Witch
+Wizard
+Warlock
+Saint
+Valkyrie
+Pirate
+Archer
+lancer
+sniper
+monk
+holy knight
+fencer
+breserker
+shaman
+gladiator
+hero
+champion
+villain
+guardian
+
+Cool Words:
+horizon
+sigil
+spell
+witch
+reaper
+ogre
+slayer
+radiant
+artifact
+relic
+
+U     divine: god
+EX   exalted: demigod
+SS   supreme: hero
+S   peerless: emperor
+A      elite: knight
+B      great: adventurer
+C       good: soldier
+D     decent: bandit
+F   inferior: civilian
+
+item tag:
+ground > held
+broken > damaged > fixed > fine
+stored
+named > conscious > living 
+blessed > holy
+cursed > damned > infernal
+legendary > mythical
+
+Manticore
+Wolf
+Dragon
+Goblin
+
+Profane 0 - power of mortals
+Water   1 - power of cleansing
+Earth   2 - power of foundation
+Air     3 - power of renewal
+Fire    4 - power of rebirth
+Light   5 - power of good
+Dark    6 - power of evil
+Time    7 - power of order
+Space   8 - power of place
+Divine  9 - power of gods
+
+F  #
+D  ##
+C  ###
+B  ####
+A  #####
+S  ######
+SS #######
+EX ########
+U  #########
+
+Sports:
+
+Legal =
+    - Weapon Dueling
+    - Melee Dueling
+    - Mage Dueling
+    - Mixed Dueling
+    - Horse Dueling
+    - Golem Fighting
+    - Horse/Beast Racing
+    - Chariot Racing
+    - Runic carrige Racing
+    - Fishing
+    - Hunting
+    - Weaponplay Competition (Style/Flair)
+    - Melee Art Competition (Style/Flair)
+    - Beast Competition (Style/Flair)
+    - MAA (Mixed Aura Arts)
+    - Boat Racing
+
+Illegal =
+    - Underground Monster Fighting
+    - Underground Chimera Fighting
+    - Undergorund Deathmatches
+
+HP (Health points)	Individual’s health capacity	1000 HP
+MP (Magic points)	Individual’s magical capacity	500 MP
+SP (Stamina points)	Individual’s endurance capacity	300 SP
+Strength 	Individual’s damage output	Unleashing a powerful attack
+Defense	Individual’s damage absorption	Holding up against a strong attack
+Agility	Individual’s evasiveness 	Dodging an attack quicker
+Speed	Individual’s movement rate	Moving faster and for longer
+Proficiency	Individual’s handling	Picking up a sword technique faster
+Magic	Individual’s magic effectiveness	Making a bigger magic explosion 
+Charisma	Individual’s social ability	Winning the hearts of citizens
+Intelligence 	Individual’s mental ability	Understanding an ancient scroll
+Fortitude	Individual’s constitution	Surviving longer in cold conditions
+Luck	Individual’s fortune rate	Finding hidden loot in dungeons
+Skill	Specialization of an action due to constant practice 	Crafting
+Spell	Product of refining mana into the body using a branch of magic	Flamethrower 
+Weapon Art	Ability to perform special moves with weapons due to certain level of mastery	Swift blade
+Sigil	A sketched circular pattern that is essential part of alchemy allowing the mutation of natural elements	A blood sacrifice sigil
+Scroll	A paper document with a magic inscription that activates the spell written	Whirlpool scroll
+Rune	Dwarven engineering magic language in-scripted on a surface material like stone, metal, etc.	Reinforcement rune
+Alchemy	The use of uncommon ingredients to produce effective elixirs and potions of various effects 	Creating a strength potion 
+U Class	god or godlike entities	Lynniel
+S+ Class	Rank-less Legends	Yahren
+S Class	World class individuals	Platinum rank
+A Class	Elite individuals 	Gold rank
+B Class	Seasoned adventurers	Silver rank
+C Class	Average adventurers	Bronze rank
+D Class	Novice adventurers	Iron rank
+F Class	Civilians	Farmer
+U Grade	Items wielded or blessed by the gods	Montero’s Blade of Judgement
+S+ Grade	Ungradable items 	Yahren’s Felled Star
+S Grade	Peerless items	Nyl La Sic
+A Grade	Elite items	Yordsteel sword
+B Grade	Quality items	Reinforced sword
+C Grade	Average items	Steel sword
+D Grade	Poorly made items	Iron sword
+F Grade	Awful items	Wood sword
+U Tier	Magic derived from the gods	Original fire magic
+S+ Tier	Supreme magic	Hellfire magic
+S Tier	Legendary magic	Holyfire magic
+A Tier	Powerful magic	Inferno magic
+B Tier	Effective magic	Blaze
+C Tier	Useful magic	Flame
+D Tier	Basic magic	Fire
+F Tier	Simple magic	Spark magic
+The Triginsidus	Religion of the continent based off the 15 daystars and 15 dawnstars that represent the Almighty and Astrayed gods 	Osiri and Khuluthlun
+Dungeon	Unnatural ruins that spawn off the god of chaos’s excess energy. Births beasts and monsters to inhabit these structures which also contain equal fortunes to the danger	The Undeground Mausoleum 	
+Osiri	The Supreme Morningstar 	
+Jofiel	The Prime Holystar 	
+Lynniel	The Prime Lifestar	
+Hermle	The Prime Timestar	
+Montero	The Major Lawstar	
+Uran	The Major Warstar	
+Wolford	The Major Magicstar	
+Yukire	The Major Dreamstar	
+Sage	The Major Bookstar	
+Crozzen	The Major Craftstar	
+Agil	The Major Tradestar	
+Veneti	The Major Luckstar	
+Rachess	The Major Huntstar	
+Asanna	The Major Lovestar	
+Bingeal	The Major Chemstar	
+Khuthulan	The Supreme Nightstar 	
+Marmou	The Prime Darkstar 	
+Grimini	The Prime Deathstar	
+Lucficien	The Prime Chaostar	
+Krenari	The Major Pridestar	
+Gahar	The Major Wrathstar	
+Verbel	The Major Witchstar	
+Inachtra	The Major Nightmarestar	
+Zakzano	The Major Forbiddenstar	
+Perizay	The Major Slothstar	
+Lahkus	The Major Greedstar	
+Teher	The Major Cursestar	
+Eirnin	The Major Gluttstar	
+Himhia	The Major Luststar	
+Neieba	The Major Envystar
+
+## General
+| Term	| Definition	| Example |
+| :--:	| :--------:	| :-----: |
+| Mana	| Natural energy that radiates from the nature	| Red mana |
+| Aura | Product of honing your soul and life force to draw out latent energy | Burning aura |
+| Health Points | Total and remaining life of a living being | HP |
+| Stamina Points | Total and remaining energy of a living being | SP |
+| Mana Points | Total and remaining mana in a living beings' mana pool | MP |
+| term | def | ex |
+
+## Locations
+- Bahen
+- Glisscar
+- Sunfell
+- Autian
+- Ighura
+- Feua
+- Ehona Plum
+- Monogoro
+- Ekryaim
+- Wyntolm
+- Balawyn
+- Yaaonhel
+- Aloore
+
+## People
+- "Follow me my brothers! I will lead you to an "
+
+## Entities
+- Racist human group
+
+## Monsters
+
+## Abilities
+- Counter
+- Taunt
+- Block
+- Parry
+- Slash
+- Pierce
+- Stone Bullet
+- Bullet Barrage 
+- Abyss
+- Hand of God
+- Limit Break
+- Red Night
+- Apocrypha 
+- Final Judgment 
+- Roar of Beasts
+- Yetheye
+- Full Counter
+- Horns of Gabriel - Holy Magic debuff
+- Hand of God
+
+## Items
+
+
+## Weapons
+
+
+## Inspiration from Bible
+- God's special garden
+- God's good tree
+- The evil tree
+- Cunning Devil
+- Angel guarding garden
+- Guardian weilding flaming sword that "turned every which way"
+- God's death brand curse on Cain
+- God destroy world with a disaster
+- Holy boat to save blessed ones
+- God's covenant with Man (rainbow)
+- Man made (God Defying) Mega structure
+- God strike against man for defying
+
+Reaper's Decree
