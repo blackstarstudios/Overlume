@@ -1,13 +1,19 @@
 Monster List:
 - slime
 - goblin
+- goblin-hobgoblin
+- goblin-quee
+- goblin-king
+- wolf
 - ogre
 - troll
 - skeleton
-- lich
+- skeleton-lich
 - drake
+- manticore
 - wyvern
 - dragon
+
 
 Monster Abilities:
 - regeneration - regrow body parts
@@ -30,3 +36,4 @@ Monster Abilities:
 - multiple brains - high intelligence leading to rapid thought processing
 - multiple hearts - able to support a larger body
 - predator focus - lock on prey
+- camoflague
