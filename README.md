@@ -28,7 +28,7 @@ To contribute to this project directly, reach out to us via email
 
 ### Supporters
 
-## Project Checklist
+## Project Roadmap
 - [x] Sample Text
 - [x] Sample Text
 - [ ] Sample Text
