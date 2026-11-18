@@ -21,10 +21,11 @@
 1. tiger-white
 1. hyena
 1. hyena-heavenly
-1. orangatan-king
+1. orangutan
+1. orangutan-king
 1. monkey
 1. monkey-lightning
-1. titan-behemoth
+1. -behemoth
 1. mole
 1. beast-assault
 1. beast-carnic
@@ -45,6 +46,7 @@
 1. phoenix-heavenly
 1. hawk-hunting
 1. peacock-mare
+1. 
 
 ### Aquatic
 1. shark
@@ -180,9 +182,8 @@ Wemnyaor, the Restless King - CURSED awakened hearld statue
 1. troll
 1. troll-yeti
 1. pixie
-Krioyll, the Froric Pillar - CURSED frost titan
 1. monke-warrior
-1. titan-
+1. titan-colossus-frost
 
 ### Artificial
 1. chimera
