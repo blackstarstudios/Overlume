@@ -1,0 +1,5 @@
+# Skills
+
+# crafting
+# speech
+# swordplay
